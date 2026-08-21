@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/social-preview.png" alt="育儿分诊台 — 面向中国家庭的 0-3 岁育儿顾问" width="100%">
+
 # 🍼 育儿分诊台（yuer-triage）
 
 ### *一个认识你家娃、会判断轻重、能把膳食宝塔落到三餐的 0-3 岁育儿顾问。*
