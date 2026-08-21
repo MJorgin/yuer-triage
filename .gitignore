@@ -1,0 +1,11 @@
+# 宝宝档案（隐私，永不入库）。实际档案在 ~/.yuer/（仓库外），
+# 仓库内 data/ 只保留模板，忽略任何非 .example 文件。
+data/*
+!data/templates/
+!data/templates/*.example.md
+
+# 系统与缓存
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
