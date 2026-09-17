@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/hero.png" alt="育儿分诊台 — 面向中国家庭的 0-3 岁育儿顾问：判断轻重、观察要点、膳食宝塔落到三餐" width="100%">
+<img src="docs/social-preview.png" alt="育儿分诊台 — 面向中国家庭的 0-3 岁育儿顾问" width="100%">
 
 # 🍼 育儿分诊台（yuer-triage）
 
